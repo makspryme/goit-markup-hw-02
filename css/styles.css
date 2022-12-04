@@ -1,0 +1,18 @@
+body {
+  font-family: roboto;
+}
+
+#logo {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+  color: black;
+}
+
+.logo-web {
+  color: #4d5ae5;
+}
