@@ -6,7 +6,7 @@ body {
   color: #2e2f42;
 }
 
-#logo {
+.logo {
   font-family: "Raleway";
   font-style: normal;
   font-weight: 800;
@@ -98,11 +98,20 @@ body {
 }
 
 .button-portfolio:hover {
-    background-color: #4d5ae5;
-    color: #ffff;
+  background-color: #4d5ae5;
+  color: #ffff;
 }
 
 .button-portfolio:active {
-    background-color: #404bbf;
+  background-color: #404bbf;
+  color: #ffff;
+}
+
+footer {
+  background-color: #2e2f42;
+  color: #ffff;
+}
+
+.white {
     color: #ffff;
 }
