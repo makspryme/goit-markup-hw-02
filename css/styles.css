@@ -109,6 +109,7 @@ body {
 
 .heading-two {
   font-size: 36px;
+  font-weight: var(--fontWeight);
   line-height: 2.5;
   letter-spacing: var(--defoultTextSpacing);
 
@@ -117,6 +118,7 @@ body {
 
 .heading-tree {
   font-size: 20px;
+  font-weight: var(--fontWeight);
   line-height: var(--lineHeight);
   letter-spacing: var(--defoultTextSpacing);
 
